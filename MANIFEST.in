@@ -5,5 +5,3 @@ include mmdet/.mim/dataset-index.yml
 include mmdet/.mim/demo/*/*
 recursive-include mmdet/.mim/configs *.py *.yml
 recursive-include mmdet/.mim/tools *.sh *.py
-recursive-include mmdet/configs *
-recursive-include mmdet/tools *
